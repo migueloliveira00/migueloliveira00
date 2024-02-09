@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [datascienceportfol.io/migueloliveira](https://www.datascienceportfol.io/migueloliveira)
 
-- 📫 How to reach me **miguel.araujo.oliveira@gmail.com**
+- 📫 You can reach me at **miguel.araujo.oliveira@gmail.com**
 
 - 📄 Know about my experiences: [Click here to find my resume](https://www.linkedin.com/in/miguel-acp-oliveira/overlay/1707407126721/single-media-viewer/?profileId=ACoAACoPqG4BbpquxLdtTMKtpf8iaKauVnfY1tc)
 
