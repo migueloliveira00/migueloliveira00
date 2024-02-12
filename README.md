@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences: [Click here to find my resume](https://www.linkedin.com/in/miguel-acp-oliveira/overlay/1707407126721/single-media-viewer/?profileId=ACoAACoPqG4BbpquxLdtTMKtpf8iaKauVnfY1tc)
 
-- ⚡ Fun fact **I am a polyglot and I have traveled to over 10 countries**
+- ⚡ Fun fact: **I am a polyglot and I have traveled to over 10 countries**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
