@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Data Analytics, Data Science and Machine Learning**
 
-- 👨‍💻 All of my projects are available at [datascienceportfol.io/migueloliveira](https://www.datascienceportfol.io/migueloliveira)
+- 👨‍💻 All of my projects are available at [https://migueloliveiradata.wixsite.com/miguel](https://migueloliveiradata.wixsite.com/miguel)
 
 - 📫 You can reach me at **miguel.araujo.oliveira@gmail.com**
 
